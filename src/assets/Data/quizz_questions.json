@@ -36,7 +36,7 @@
       "question": "Qual o seu maior foco ?",
       "options":[
         {"id": 1, "name":"Estilização?", "alias":"A"},
-        {"id": 2, "name":"Interação de retorno por debaixo dos panos?", "alias":"B"}
+        {"id": 2, "name":"Interação de retorno por debaixo dos panos 👖?", "alias":"B"}
       ]
     },
     {
